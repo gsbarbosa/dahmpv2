@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065592070184",
+    "project_id": "appdahmp",
+    "storage_bucket": "appdahmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065592070184:android:106a2c9b204faccbe2551d",
+        "android_client_info": {
+          "package_name": "com.meuda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065592070184-ihlf29mdos1dgjbmut3f83sbiarvmja7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7XAnXK-_4Jel1qLlQs9wO-VcHFhWBPdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065592070184-ihlf29mdos1dgjbmut3f83sbiarvmja7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
